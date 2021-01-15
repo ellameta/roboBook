@@ -5,16 +5,15 @@
 ![alt text](https://raw.githubusercontent.com/ellameta/roboBook/master/preview-search-bar.png)
 
 
-https://raw.githubusercontent.com/ellameta/roboBook/master/preview-search-bar.png
-Technologies Used
+<h3>Technologies Used</h3>
 - HTML5
 - CSS3
 - React.js
 
-React Packages
+<h3>React Packages</h3>
 - Create React App
 - Tachyons
 
-APIs
+<h3>APIs</h3>
 - RoboHash
 - JSONPlaceholder
