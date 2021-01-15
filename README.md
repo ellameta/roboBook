@@ -25,5 +25,4 @@
 <ul>  
  <li>RoboHash</li>
  <li>JSONPlaceholder</li>
- <li>React.js</li>
 </ul>
