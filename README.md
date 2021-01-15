@@ -6,14 +6,24 @@
 
 
 <h3>Technologies Used</h3>
-- HTML5
-- CSS3
-- React.js
+<ul>  
+ <li>HTML5</li>
+ <li>CSS3</li>
+ <li>React.js</li>
+</ul>
+
 
 <h3>React Packages</h3>
-- Create React App
-- Tachyons
+<ul>  
+ <li>Create React App</li>
+ <li>Tachyons</li>
+ <li>React.js</li>
+</ul>
+
 
 <h3>APIs</h3>
-- RoboHash
-- JSONPlaceholder
+<ul>  
+ <li>RoboHash</li>
+ <li>JSONPlaceholder</li>
+ <li>React.js</li>
+</ul>
