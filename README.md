@@ -2,8 +2,10 @@
 
 ![alt text](https://raw.githubusercontent.com/ellameta/roboBook/master/preview.png)
 
-![alt text] (https://raw.githubusercontent.com/ellameta/roboBook/master/preview-search-bar.png)
+![alt text](https://raw.githubusercontent.com/ellameta/roboBook/master/preview-search-bar.png)
 
+
+https://raw.githubusercontent.com/ellameta/roboBook/master/preview-search-bar.png
 Technologies Used
 - HTML5
 - CSS3
