@@ -1,5 +1,7 @@
 <h1>roboBook</h1>
 
+![alt text](https://raw.githubusercontent.com/ellameta/roboBook/master/preview.png)
+
 Technologies Used
 - HTML5
 - CSS3
