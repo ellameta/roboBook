@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/roboBook/static/css/main.5ac0a968.chunk.css",
+    "main.js": "/roboBook/static/js/main.acf7189f.chunk.js",
+    "main.js.map": "/roboBook/static/js/main.acf7189f.chunk.js.map",
+    "runtime-main.js": "/roboBook/static/js/runtime-main.331f7231.js",
+    "runtime-main.js.map": "/roboBook/static/js/runtime-main.331f7231.js.map",
+    "static/css/2.31461e4f.chunk.css": "/roboBook/static/css/2.31461e4f.chunk.css",
+    "static/js/2.dba7a7b0.chunk.js": "/roboBook/static/js/2.dba7a7b0.chunk.js",
+    "static/js/2.dba7a7b0.chunk.js.map": "/roboBook/static/js/2.dba7a7b0.chunk.js.map",
+    "static/js/3.5218428c.chunk.js": "/roboBook/static/js/3.5218428c.chunk.js",
+    "static/js/3.5218428c.chunk.js.map": "/roboBook/static/js/3.5218428c.chunk.js.map",
+    "index.html": "/roboBook/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/roboBook/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.5ac0a968.chunk.css.map": "/roboBook/static/css/main.5ac0a968.chunk.css.map",
+    "static/js/2.dba7a7b0.chunk.js.LICENSE.txt": "/roboBook/static/js/2.dba7a7b0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/roboBook/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.331f7231.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.dba7a7b0.chunk.js",
+    "static/css/main.5ac0a968.chunk.css",
+    "static/js/main.acf7189f.chunk.js"
+  ]
+}
